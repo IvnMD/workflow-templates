@@ -33,5 +33,5 @@ assignees: ''
 - [ ] 🟡 Media — mejora significativa
 - [ ] 🟢 Baja — nice to have
 
-## 🗂️ Proyecto
+## Proyecto
 <!-- Añade este issue al proyecto correspondiente para activar automatizaciones. -->
